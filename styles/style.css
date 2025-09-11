@@ -131,7 +131,7 @@ body{
     padding: 24px;                     /* Espaçamento interno */
     text-align: center;                /* Centraliza o texto */
     font-family: var(--fonte-secundaria); /* Fonte Montserrat */
-    font-size: 1,5rem;                 /* ⚠️ Aqui tem um erro: vírgula em vez de ponto */
+    font-size: 1.5rem;                 /* ⚠️ Aqui tem um erro: vírgula em vez de ponto */
     font-weight: 400;                  /* Peso normal */
 }
 
